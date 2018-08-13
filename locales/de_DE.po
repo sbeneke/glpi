@@ -14283,7 +14283,7 @@ msgstr "Sie müssen zumindest einen Benachrichtigungsmodus aktivieren."
 
 #: inc/notificationsettingconfig.class.php:100
 msgid "Enable followup"
-msgstr "E-Mail-Benachrichtigungen aktivieren"
+msgstr "Benachrichtigungen aktivieren"
 
 #: inc/notificationsettingconfig.class.php:161
 msgid ""
